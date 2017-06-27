@@ -1,0 +1,4 @@
+Building Octanox
+See doc/readme-qt.rst for instructions on building Octanox QT.
+
+See doc/build-*.txt for instructions on building octanoxd.
